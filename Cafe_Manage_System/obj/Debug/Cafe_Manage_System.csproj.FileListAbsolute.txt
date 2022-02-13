@@ -1,0 +1,13 @@
+D:\IT-Projects\Group2\Cafe_Manage_System\bin\Debug\Cafe_Manage_System.exe.config
+D:\IT-Projects\Group2\Cafe_Manage_System\bin\Debug\Cafe_Manage_System.exe
+D:\IT-Projects\Group2\Cafe_Manage_System\bin\Debug\Cafe_Manage_System.pdb
+D:\IT-Projects\Group2\Cafe_Manage_System\bin\Debug\FontAwesome.Sharp.dll
+D:\IT-Projects\Group2\Cafe_Manage_System\bin\Debug\mysql.data.dll
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.csproj.AssemblyReference.cache
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.Form1.resources
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.Properties.Resources.resources
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.csproj.GenerateResource.cache
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.csproj.CoreCompileInputs.cache
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.csproj.CopyComplete
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.exe
+D:\IT-Projects\Group2\Cafe_Manage_System\obj\Debug\Cafe_Manage_System.pdb
