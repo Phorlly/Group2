@@ -9,9 +9,15 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
+//branch 3 in member
+//update system from branch meun
+
+
+//branch 1 in member
+//update system from branch  ngounleng
+
 //branch 2 in member
-
-
+//update system from branch panhavith
 
 namespace Cafe_Manage_System
 {
