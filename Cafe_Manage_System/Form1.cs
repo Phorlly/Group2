@@ -10,9 +10,6 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 //branch 1 in member
-//branch 2 in member
-//testing in github
-
 
 namespace Cafe_Manage_System
 {
