@@ -11,7 +11,7 @@ using MySql.Data.MySqlClient;
 
 //branch 2 in member
 
-//testing in github
+
 
 namespace Cafe_Manage_System
 {
