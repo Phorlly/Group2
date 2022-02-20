@@ -10,12 +10,15 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 //branch 3 in member
-//update system frombranch meun
+//update system from branch meun
 
 
 //branch 1 in member
+//update system from branch  ngounleng
+
 //branch 2 in member
 //branch 3 in member
+
 
 
 namespace Cafe_Manage_System
