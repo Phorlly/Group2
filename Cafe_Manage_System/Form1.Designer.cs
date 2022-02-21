@@ -36,6 +36,7 @@ namespace Cafe_Manage_System
             // 
             // tb_Data
             // 
+            this.tb_Data.Font = new System.Drawing.Font("Khmer OS", 15.25F);
             this.tb_Data.Location = new System.Drawing.Point(56, 111);
             this.tb_Data.Multiline = true;
             this.tb_Data.Name = "tb_Data";

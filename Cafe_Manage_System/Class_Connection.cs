@@ -12,7 +12,7 @@ namespace Cafe_Manage_System
         private string server = "localhost";
         private string user = "root";
         private string pwd = "";
-        private string db = "db_for_spi";
+        private string db = "db_for_cafe_g2";
         private string cs;
 
         //create contructor

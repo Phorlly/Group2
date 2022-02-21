@@ -20,7 +20,7 @@ namespace Cafe_Manage_System
         private string server = "localhost";
         private string user = "root";
         private string pwd = "";
-        private string db = "db_for_spi";
+        private string db = "db_for_cafe_g2";
         private string cs;
         public MySqlConnection cn;
 
@@ -35,7 +35,7 @@ namespace Cafe_Manage_System
                 if (cn.State == ConnectionState.Open)
                 {
                     tb_Data.Text = "Connected";
-                    tb_Data.ForeColor = Color.Green;
+                    tb_Data.ForeColor = Color.Blue;
                 }
                 else
                 {
