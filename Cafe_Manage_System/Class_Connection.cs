@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
+
 //member 2 branch meun
+
+//member 1 branch panhavith
+
 namespace Cafe_Manage_System
 {
     public abstract class Class_Connection
